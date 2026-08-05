@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Avito Auto//Dealer Conference//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:avito-auto-conference-20260918@autodealersconf.avito.com
+DTSTAMP:20260805T142800Z
+DTSTART;TZID=Europe/Moscow:20260918T120000
+DTEND;TZID=Europe/Moscow:20260918T220000
+SUMMARY:Высшая передача - региональная дилерская конференция Авито Авто
+LOCATION:Арсенальная набережная\, 1\, Санкт-Петербург
+DESCRIPTION:Региональная дилерская конференция Авито Авто. Кейсы лидеров рынка\, открытая дискуссия с командой Авито Авто\, ключевые обновления продуктов. Подробнее на autodealersconf.avito.com
+URL:https://autodealersconf.avito.com
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
